@@ -1,7 +1,7 @@
 ### Olá! Sou o Jou 👋
 
 
-- 🌱 Estudando Estatística
+- 📈📊📉 Estatística-UFSM
 - 😄 Pronomes: ele/dele
 
 <div style="display: inline_block"><br>
