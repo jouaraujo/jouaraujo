@@ -18,3 +18,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jouaraujo/jouaraujo/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jouaraujo/jouaraujo/output/github-contribution-grid-snake.svg">
 </picture>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jouaraujo&bg_color=090b09&color=0aa924&line=18812c&point=09390a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
