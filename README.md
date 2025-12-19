@@ -1,7 +1,5 @@
-### Olá! Sou o Jou 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Olá!+Sou+o+Jou+👋;Estudante+de+Estatística+pela+UFSM)](https://git.io/typing-svg)
 
-
-- 📈📊📉 Estatística-UFSM
 
 <div style="display: inline_block"><br>
    
